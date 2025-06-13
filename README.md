@@ -5,7 +5,7 @@ This project applies KMeans clustering to segment customers of a mall based on t
 ---
 
 ## 📁 Project Structure
-
+```
 customer_segmentation/
 ├── data/
 │ ├── Mall_Customer.csv # Raw dataset
@@ -19,5 +19,5 @@ customer_segmentation/
 │ ├── elbow_plot.png # Elbow Method chart
 │ └── clusters_plot.png # Customer segmentation scatter plot
 │
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+└── README.md # Project documentation
+```
